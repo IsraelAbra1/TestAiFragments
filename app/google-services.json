@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "215469486877",
+    "firebase_url": "https://tempfinalproj-default-rtdb.firebaseio.com",
+    "project_id": "tempfinalproj",
+    "storage_bucket": "tempfinalproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215469486877:android:a321c2e5c142a7222c67f4",
+        "android_client_info": {
+          "package_name": "com.example.tempfinalproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxj9Gd7uhNapbtlsZozBuPAuMPDtM5yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215469486877:android:69aa75752dcacfb42c67f4",
+        "android_client_info": {
+          "package_name": "com.example.testai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxj9Gd7uhNapbtlsZozBuPAuMPDtM5yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
